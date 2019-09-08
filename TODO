@@ -1,6 +1,17 @@
 Misc RANDOM class name ideas::
 	.billboard
 	.widescreen
+	.hero-image
+
+	--------------
+
+	.heading
+	.main
+
+	--------------
+
+	.headline
+	.article
 
 For article-type layout::
 	**(.story could be replaced with .article, or something similar)**
@@ -26,7 +37,8 @@ For splash sections (or hero units, etc)::
 		.billboard-prose
 		.billboard-cta
 		.billboard-target-link
-	**.poster**
+	**.poster (or .section)**
+		.poster-heading
 		.poster-title
 		.poster-headline
 		.poster-subheader
@@ -35,7 +47,7 @@ For splash sections (or hero units, etc)::
 		.poster-content
 		.poster-img
 		.poster-graphic
-		.poster-heading
+		.poster-main
 	**.flyer**
 		.flyer-headline
 		.flyer-graphic
