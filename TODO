@@ -19,3 +19,25 @@ For article-type layout::
 			figure
 			img
 
+For splash sections (or hero units, etc)::
+	**.billboard**
+		.billboard
+		.billboard-content
+		.billboard-prose
+		.billboard-cta
+		.billboard-target-link
+	**.poster**
+		.poster-title
+		.poster-headline
+		.poster-subheader
+		.poster-tagline
+		.poster-article
+		.poster-content
+		.poster-img
+		.poster-graphic
+		.poster-heading
+	**.flyer**
+		.flyer-headline
+		.flyer-graphic
+		.flyer-data
+		.flyer-subject
