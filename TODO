@@ -1,13 +1,40 @@
 Misc RANDOM class name ideas::
 	.billboard
 	.widescreen
+	.cluster
+	.copy-area
+		.copy
+	.dimming
+	.embellishment
+	.extension
+	.finishing
+	.flag
+	.illuminated
+	.illuminated-face
+	.illuminated-unit
+	.poster-panel
+		.poster
+	.premier-panel
+	.rotary-bulletin
+	.rotary-program
+	.trim
+	.unit
+	.viewing-area
+	.unit-wrapper
+		.unit-link
+		.unit-copy-wrapper
+		.unit-image-wrapper
 	.hero-image
+	.focal-point
+	.fold
+	.landing
 
 	--------------
 
-	.heading
+	.header
+		.inner-content
 	.main
-
+		.inner-content
 	--------------
 
 	.headline
